@@ -1,4 +1,4 @@
-package parsing.domain;
+package de.techfak.gpse.explo.parsing.domain;
 
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;

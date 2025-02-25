@@ -1,11 +1,11 @@
-package parsing;
+package de.techfak.gpse.explo.parsing;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.parser.Parser;
-import parsing.domain.Row;
-import parsing.domain.TableOfContent;
+import de.techfak.gpse.explo.parsing.domain.Row;
+import de.techfak.gpse.explo.parsing.domain.TableOfContent;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -23,14 +23,15 @@ public class Main {
         for (int i = 0; i < data.childrenSize(); i++) {
             Element child = data.children().get(i);
             Row row = new Row(child);
-            rows.add(row);
-            Element text = row.getText();
 
+            Element text = row.getText();
             Element toc = text.getElementById("tableOfContents");
             if (toc != null) {
                 TableOfContent tableOfContent = new TableOfContent(toc);
-                System.out.println(tableOfContent);
+                row.setTable_of_content(tableOfContent);
             }
+
+            rows.add(row);
             System.out.println("Row done");
         }
 

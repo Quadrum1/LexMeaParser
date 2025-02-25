@@ -1,6 +1,7 @@
-package parsing.domain;
+package de.techfak.gpse.explo.parsing.domain;
 
 import lombok.Getter;
+import lombok.Setter;
 import org.jsoup.nodes.Element;
 
 import java.text.ParseException;
@@ -9,6 +10,7 @@ import java.time.Instant;
 import java.util.Date;
 
 @Getter
+@Setter
 public class Row {
 
     private String id;
@@ -21,6 +23,8 @@ public class Row {
     private Date updated_at;
     private Date deleted_at;
     private Date published_at;
+
+    private TableOfContent table_of_content;
 
     private Element text;
 

@@ -1,4 +1,4 @@
-package parsing.domain;
+package de.techfak.gpse.explo.parsing.domain;
 
 import lombok.Getter;
 import lombok.Setter;
