@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <row>
+        <id>1</id>
+        <user_id>19</user_id>
+        <title>Übersicht: Deliktsarten im Strafrecht</title>
+        <text>
+            <section data-style="summary">
+                <p data-style="standard">Übersicht zu den Deliktsarten: Erfolgsdelikte, Tätigkeitsdelikte,
+                    Begehungsdelikte, echte und unechte Unterlassungsdelikte, Allgemeindelikte, Sonderdelikte und
+                    eigenhändige Delikte.
+                </p>
+            </section>
+            <ol id="tableOfContents" contenteditable="false">
+                <li data-style="heading1">Inhaltsverzeichnis</li>
+                <li style="margin: 0rem;" data-style="heading2">Erfolgscharakter: Erfolgs- und Tätigkeitsdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Erfolgsdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Tätigkeitsdelikte</li>
+                <li style="margin: 0rem;" data-style="heading2">Begehungsform: Begehungs- und Unterlassungsdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Begehungsdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Unterlassungsdelikte</li>
+                <li style="margin: 0rem;" data-style="heading2">Täterkreis: Allgemeindelikte, Sonderdelikte und
+                    eigenhändige Delikte
+                </li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Allgemeindelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Sonderdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Eigenhändige Delikte</li>
+            </ol>
+            <p data-style="standard"> </p>
+            <p class="MsoNormal" data-style="standard"> </p>
+            <h2 class="MsoNormal" data-style="heading2">
+                <span style="font-family: Mulish;">Erfolgscharakter: Erfolgs- und Tätigkeitsdelikte</span>
+            </h2>
+            <section data-style="structure_note">
+                <p class="MsoNormal">Die nachfolgende Unterteilung in Erfolgs- und Tätigkeitsdelikte folgt der wohl
+                    herrschenden Lehre und Rechtsprechung. Sie ist jedoch nicht unumstritten und es sprechen gute Gründe
+                    für andere Einordnungen. Praktische Auswirkungen ergeben sich jedoch vornehmlich für die
+                    Anwendbarkeit deutschen Strafrechts auf im Ausland begangene Straftaten (siehe insb. § 9 I StGB),
+                    weshalb an dieser Stelle nur knapp auf sie hingewiesen wird.
+                </p>
+            </section>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Erfolgsdelikte</span>
+            </h3>
+            <p class="MsoNormal" data-style="standard">
+                <span style="font-family: Mulish;">Erfolgsdelikte setzen die Verursachung eines Erfolges durch die
+                    Handlung des Täters voraus, sodass Kausalität zwischen beiden zu prüfen ist. Nach herrschender Lehre
+                    ist außerdem stets zu prüfen, ob dem Täter der Taterfolg auch objektiv zuzurechnen ist.
+                </span>
+            </p>
+            <p class="MsoNormal" data-style="paragraph">
+                <span style="font-family: Mulish;">Erfolgsdelikte lassen sich - nach Intensität der Beeinträchtigung -
+                    in Verletzungs- und konkrete Gefährdungsdelikte unterteilen:
+                </span>
+            </p>
+            <ul style="list-style-type: square;">
+                <li data-style="paragraph">
+                    <p data-style="standard">
+                        <strong style="mso-bidi-font-weight: normal;">
+                            <span style="font-family: Mulish;">Verletzungsdelikte
+                                <br>
+                            </span>
+                        </strong>
+                        <span style="font-family: Mulish;">Erfolg liegt in der Beeinträchtigung des geschützten
+                            Rechtsgutes
+                            <br>
+                        </span>
+                        <em style="mso-bidi-font-style: normal;">
+                            <span style="font-family: Mulish;">z.B.: <a href="https://lexmea.de/gesetz/stgb/211/mord"
+                                                                        title="Mord (§§ 212, 211 StGB)"
+                                                                        rel="nofollow noreferrer">Mord (§ 211 StGB)</a>, <a
+                                    href="https://lexmea.de/gesetz/stgb/212/totschlag" title="Totschlag (§ 212 StGB)"
+                                    rel="nofollow noreferrer">Totschlag (§ 212 StGB)</a>, <a
+                                    href="https://lexmea.de/gesetz/stgb/223/korperverletzung"
+                                    title="Körperverletzung (§ 223 StGB)" rel="nofollow noreferrer">Körperverletzung (§
+                                223 StGB)</a>,
+                                <a href="https://lexmea.de/gesetz/stgb/303/sachbeschadigung"
+                                   title="Sachbeschädigung (§ 303 StGB)" rel="nofollow noreferrer">Sachbeschädigung (§
+                                    303 StGB)
+                                </a>
+                            </span>
+                        </em>
+                    </p>
+                </li>
+                <li class="MsoNormal" data-style="paragraph">
+                    <p data-style="standard">
+                        <strong style="mso-bidi-font-weight: normal;">
+                            <span style="font-family: Mulish;">Konkrete Gefährdungsdelikte
+                                <br>
+                            </span>
+                        </strong>
+                        <span style="font-family: Mulish;">Erfolg muss nicht eintreten, jedoch muss sich das Verhalten
+                            des Täters zu einem „Beinahe-Schadensereignis“ verdichten, sodass es nur vom Zufall abhängt,
+                            ob es zu einer Verletzung oder Schädigung anderer kommt
+                            <br>
+                        </span>
+                        <em style="mso-bidi-font-style: normal;">
+                            <span style="font-family: Mulish;">z.B.: <a
+                                    href="https://lexmea.de/gesetz/stgb/315c/gefahrdung_des_strassenverkehrs"
+                                    title="Gefährdung des Straßenverkehrs (§ 315c StGB)" rel="nofollow noreferrer">
+                                Gefährdung des Straßenverkehrs (§ 315c StGB)</a>;
+                                <a href="https://lexmea.de/gesetz/stgb/221/aussetzung" title="Aussetzung (§ 221 StGB)"
+                                   rel="nofollow noreferrer">Aussetzung (§ 221 StGB)
+                                </a>
+                            </span>
+                        </em>
+                    </p>
+                </li>
+            </ul>
+            <p> </p>
+            <h3 data-style="heading3">
+                <span style="font-family: Mulish;">Tätigkeitsdelikte</span>
+            </h3>
+            <p data-style="standard">
+                <span style="font-family: Mulish;">Tätigkeitsdelikte setzen keinen Erfolgseintritt voraus, sondern
+                    stellen bereits die Handlung als solche unter Strafe. Daher entfällt auch eine Prüfung der
+                    Kausalität und der objektiven Zurechnung der Handlung zu einem – eben nicht geforderten – Erfolg.
+                </span>
+            </p>
+            <ul style="list-style-type: square;">
+                <li data-style="standard">
+                    <span style="font-family: Mulish;">
+                        <strong>Insb. abstrakte Gefährdungsdelikte</strong>
+                        <br>Ein bestimmter Erfolg oder eine tatsächliche konkrete Gefährdung ist nicht erforderlich.
+                        Strafwürdig ist bereits die Gefährlichkeit des Verhaltens des Täters für sich.
+                    </span>
+                    <span style="font-family: Mulish;">
+                        <em style="mso-bidi-font-style: normal;"><br>z.B.: <a
+                                href="https://lexmea.de/gesetz/stgb/316/trunkenheit_im_verkehr"
+                                title="Trunkenheit im Verkehr (§ 316 StGB)" rel="nofollow noreferrer">Trunkenheit im
+                            Verkehr (§ 316 StGB)</a>; Meineid (§ 154 StGB)
+                        </em>
+                    </span>
+                </li>
+            </ul>
+            <p> </p>
+            <p> </p>
+            <p data-style="standard"> </p>
+            <h2 class="MsoNormal" data-style="heading2">
+                <span style="font-family: Mulish;">Begehungsform: Begehungs- und Unterlassungsdelikte</span>
+            </h2>
+            <p class="MsoNormal"> </p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Begehungsdelikte</span>
+            </h3>
+            <p class="MsoNormal" data-style="standard">
+                <span style="font-family: Mulish;">Die Tathandlung wurde durch aktive Energieentfaltung vollzogen.
+                    <br>
+                </span>
+                <em style="mso-bidi-font-style: normal;">
+                    <span style="font-family: Mulish;">z.B. <a href="https://lexmea.de/gesetz/stgb/303/sachbeschadigung"
+                                                               title="Sachbeschädigung (§ 303 StGB)"
+                                                               rel="nofollow noreferrer">Sachbeschädigung
+                    </a> durch Abtreten eines Autospiegels (§ 303 StGB)
+                    </span>
+                </em>
+            </p>
+            <p class="MsoNormal"> </p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Unterlassungsdelikte</span>
+            </h3>
+            <p class="MsoNormal">
+                <span style="font-family: Mulish;">Der Täter begeht die Tat durch Unterlassen. Unterlassungsdelikte
+                    lassen sich in echte und unechte Unterlassungsdelikte unterteilen:
+                </span>
+            </p>
+            <ul style="list-style-type: square;">
+                <li>
+                    <p data-style="standard">
+                        <strong style="mso-bidi-font-weight: normal;">
+                            <span style="font-family: Mulish;">Echte Unterlassungsdelikte
+                                <br>
+                            </span>
+                        </strong>
+                        <span style="font-family: Mulish;">Hier stellt der Gesetzgeber ausdrücklich das Unterlassen
+                            bestimmter Handlungen in bestimmten Situationen unter Strafe.
+                            <br>
+                        </span>
+                        <em style="mso-bidi-font-style: normal;">
+                            <span style="font-family: Mulish;">z.B.:
+                                <a href="https://lexmea.de/gesetz/stgb/323c/unterlassene_hilfeleistung"
+                                   title="Unterlassene Hilfeleistung (§ 323c StGB)" rel="nofollow noreferrer">
+                                    Unterlassene Hilfeleistung (§ 323c StGB)
+                                </a>
+                            </span>
+                        </em>
+                    </p>
+                </li>
+                <li class="MsoNormal" data-style="paragraph">
+                    <p data-style="standard">
+                        <strong style="mso-bidi-font-weight: normal;">
+                            <span style="font-family: Mulish;">Unechte Unterlassungsdelikte
+                                <br>
+                            </span>
+                        </strong>
+                        <span style="font-family: Mulish;">Hier verursacht der Täter einen strafbaren Erfolg, indem er
+                            eine ihm auferlegte Handlung unterlässt. Die Handlungspflicht ergibt sich aus einer
+                            Garantenstellung und kann zum Schutz bestimmter Rechtsgüter (Beschützergaranten) oder zur
+                            Überwachung von Gefahrenquellen (Überwachergaranten) verpflichten.
+                        </span>
+                        <span style="font-family: Mulish;">Bei Vorliegen einer Garantenstellung kann jedes Erfolgsdelikt
+                            durch Unterlassen verwirklicht werden (§ 13 StGB).
+                            <br>
+                        </span>
+                        <em style="mso-bidi-font-style: normal;">
+                            <span style="font-family: Mulish;">z.B. <a
+                                    href="https://lexmea.de/gesetz/stgb/303/sachbeschadigung"
+                                    title="Sachbeschädigung (§ 303 StGB)" rel="nofollow noreferrer">Sachbeschädigung
+                            </a> durch Unterlassen des Fütterns zur Pflege anvertrauter Tiere (§§ 303, 13 StGB)
+                                <br>
+                            </span>
+                        </em>
+                        Siehe ausführlich: 
+                        <a href="https://lexmea.de/gesetz/stgb/13/grundschema_vorsatzliches_unechtes_unterlassungsdelikt"
+                           title="Grundschema: Vorsätzliches unechtes Unterlassungsdelikt (§ 13 StGB)"
+                           rel="nofollow noreferrer">Grundschema: Vorsätzliches unechtes Unterlassungsdelikt (§ 13 StGB)
+                        </a>
+                    </p>
+                </li>
+            </ul>
+            <p data-style="standard"> </p>
+            <p data-style="standard"> </p>
+            <h2 class="MsoNormal" data-style="heading2">
+                <span style="font-family: Mulish;">Täterkreis: Allgemeindelikte, Sonderdelikte und eigenhändige
+                    Delikte
+                </span>
+            </h2>
+            <p class="MsoNormal">Delikte lassen sich nach den möglichen Täterkreisen differenzieren:</p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Allgemeindelikte</span>
+            </h3>
+            <p class="MsoNormal" data-style="paragraph">
+                <span style="font-family: Mulish;">Allgemeindelikte können von jedermann verwirklicht werden.</span>
+            </p>
+            <p class="MsoNormal"> </p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Sonderdelikte</span>
+            </h3>
+            <ul style="list-style-type: square;">
+                <li class="MsoNormal" data-style="paragraph">
+                    <strong style="mso-bidi-font-weight: normal;">
+                        <span style="font-family: Mulish;">Echte Sonderdelikte
+                            <br>
+                        </span>
+                    </strong>
+                    <span style="font-family: Mulish;">Gesetzlich vorausgesetzte Subjektqualität des Täters ist
+                        strafbegründend (§ 28 I StGB)
+                    </span>
+                    <span style="font-family: 'Times New Roman',serif;">→</span>
+                    <span style="font-family: Mulish;">ohne eine bestimmte Tätereigenschaft ist also keine
+                        Deliktsverwirklichung möglich
+                        <br>
+                    </span>
+                    <em style="mso-bidi-font-style: normal;">
+                        <span style="font-family: Mulish;">z.B.: „Arzt“ (§ 203 I Nr. 1 StGB) oder „Amtsträger“ (§ 331
+                            StGB)
+                        </span>
+                    </em>
+                </li>
+                <li class="MsoNormal" data-style="paragraph">
+                    <strong style="mso-bidi-font-weight: normal;">
+                        <span style="font-family: Mulish;">Unechte Sonderdelikte
+                            <br>
+                        </span>
+                    </strong>
+                    <span style="font-family: Mulish;">Gesetzlich normierte Subjektqualität des Täters wirkt
+                        strafschärfend (§ 28 II StGB)
+                    </span>
+                    <span style="font-family: 'Times New Roman',serif;">→</span>
+                    <span style="font-family: Mulish;">ohne Tätereigenschaft also lediglich Deliktsverwirklichung des
+                        Grundtatbestandes
+                        <br>
+                    </span>
+                    <em style="mso-bidi-font-style: normal;">
+                        <span style="font-family: Mulish;">z.B.: Körperverletzung im Amt (§ 223 i.V.m. § 340 StGB) oder
+                            Strafvereitelung durch einen Amtsträger (§ 257 i.V.m. § 257a StGB)
+                        </span>
+                    </em>
+                </li>
+                <li class="MsoNormal" data-style="paragraph">
+                    <strong style="mso-bidi-font-weight: normal;">
+                        <span style="font-family: Mulish;">Pflichtdelikte
+                            <br>
+                        </span>
+                    </strong>
+                    <span style="font-family: Mulish;">Können nur von Personen mit bestimmten Pflichten verwirklicht
+                        werden
+                        <br>
+                    </span>
+                    <em style="mso-bidi-font-style: normal;">
+                        <span style="font-family: Mulish;">z.B. <a href="https://lexmea.de/gesetz/stgb/221/aussetzung"
+                                                                   title="Aussetzung (§ 221 StGB)"
+                                                                   rel="nofollow noreferrer">Aussetzung § 221 I Nr. 2
+                            StGB
+                        </a> (Garanten- bzw. Obhutspflicht); <a
+                                href="https://lexmea.de/gesetz/stgb/142/unerlaubtes_entfernen_vom_unfallort"
+                                title="Unerlaubtes Entfernen vom Unfallort (§ 142 StGB)" rel="nofollow noreferrer">
+                            unerlaubtes Entfernen vom Unfallort § 142 StGB
+                        </a> (Warte- bzw. Feststellungspflicht); <a href="https://lexmea.de/gesetz/stgb/266/untreue"
+                                                                    title="Untreue (§ 266 StGB)"
+                                                                    rel="nofollow noreferrer">Untreue § 266
+                        </a> (Vermögensbetreuungspflicht)
+                        </span>
+                    </em>
+                </li>
+            </ul>
+            <p> </p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Eigenhändige Delikte</span>
+            </h3>
+            <p class="MsoNormal" data-style="standard">
+                <span style="font-family: Mulish;">Eigenhändige Delikte können nur von der Person verwirklicht werden,
+                    die die Handlung unmittelbar selbst begeht. Es ist k
+                </span>
+                <span style="font-family: Mulish;">eine mittelbare Täterschaft (§ 25 I Alt. 2 StGB) oder Mittäterschaft
+                    (§ 25 II StGB) möglich.
+                    <br>
+                </span>
+                <span style="font-family: Mulish;">
+                    <em>z.B.: „Aussagender“ (§ 153 StGB); „Fahrender“ (§ 315c StGB); „Berauschter“ (§ 323a StGB) </em>
+                </span>
+            </p>
+            <p class="MsoNormal" data-style="standard"> </p>
+            <p class="MsoNormal" data-style="standard"> </p>
+            <section data-style="structure_note">
+                <p class="MsoNormal" data-style="standard">Beachte: Nicht um eigenständige Deliktsarten i.e.S., sondern
+                    um...
+                </p>
+                <ul style="list-style-type: square;">
+                    <li class="MsoNormal" data-style="standard">Erscheinungsformen einer Straftat handelt es sich bei
+                        der Unterscheidung in <a
+                                href="https://lexmea.de/gesetz/stgb/15/grundschema_vorsatzliches_vollendetes_begehungsdelikt"
+                                title="Grundschema: Vorsätzliches vollendetes Begehungsdelikt (§ 15 Var. 1 StGB)"
+                                rel="nofollow noreferrer">vollendete</a> und <a
+                                href="https://lexmea.de/gesetz/stgb/22/grundschema_versuch_des_vorsatzlichen_begehungsdelikts"
+                                title="Grundschema: Versuch des vorsätzlichen Begehungsdelikts (§§ 22, 23 StGB)"
+                                rel="nofollow noreferrer">versuchte Delikte
+                        </a> sowie in <a href="https://lexmea.de/gesetz/stgb/15/ubersicht_vorsatz_und_fahrlassigkeit"
+                                         title="Übersicht: Vorsatz und Fahrlässigkeit (§ 15 StGB)"
+                                         rel="nofollow noreferrer">Vorsatzdelikte und Fahrlässigkeitsdelikte</a>. 
+                    </li>
+                    <li class="MsoNormal" data-style="standard">Erweiterungen des Tatbestandes bzw.
+                        Strafzumessungsregelungen handelt es sich bei <a
+                                href="https://lexmea.de/gesetz/stgb/18/ubersicht_qualifikation_erfolgsqualifikation_besonders_schwerer_fall"
+                                title="Übersicht: Qualifikation, Erfolgsqualifikation, besonders schwerer Fall"
+                                rel="nofollow noreferrer">Qualifikation, Erfolgsqualifikation und besonders schwerem
+                            Fall</a>.
+                    </li>
+                    <li class="MsoNormal" data-style="standard">eine informelle Gliederung der Delikte handelt es sich
+                        bei der Einteilung in Vermögensdelikte (geschütztes Rechtsgut ist das Vermögen) und
+                        Nichtvermögensdelikte (schützen sonstige Rechtsgüter).
+                    </li>
+                    <li class="MsoNormal" data-style="standard">eine Unterteilung nach Strafverfolgungsvoraussetzungen
+                        handelt es sich bei der Unterscheidung in Antrags- und Offizialdelikte. 
+                    </li>
+                </ul>
+            </section>
+            <p class="MsoNormal" data-style="standard"> </p>
+        </text>
+        <curated>1</curated>
+        <created_at>2023-09-16 15:39:18</created_at>
+        <updated_at>2024-09-03 01:16:22</updated_at>
+        <deleted_at>null</deleted_at>
+        <field_of_law_id>null</field_of_law_id>
+        <slug>ubersicht_deliktsarten_im_strafrecht</slug>
+        <published_at>2023-09-16 15:39:18</published_at>
+    </row>
+    <row>
+        <id>2</id>
+        <user_id>153</user_id>
+        <title>Übersicht: Deliktsarten im Strafrecht</title>
+        <text>
+            <section data-style="summary">
+                <p data-style="standard">Übersicht zu den Deliktsarten: Erfolgsdelikte, Tätigkeitsdelikte,
+                    Begehungsdelikte, echte und unechte Unterlassungsdelikte, Allgemeindelikte, Sonderdelikte und
+                    eigenhändige Delikte.
+                </p>
+            </section>
+            <ol id="tableOfContents" contenteditable="false">
+                <li data-style="heading1">Inhaltsverzeichnis</li>
+                <li style="margin: 0rem;" data-style="heading2">Erfolgscharakter: Erfolgs- und Tätigkeitsdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Erfolgsdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Tätigkeitsdelikte</li>
+                <li style="margin: 0rem;" data-style="heading2">Begehungsform: Begehungs- und Unterlassungsdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Begehungsdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Unterlassungsdelikte</li>
+                <li style="margin: 0rem;" data-style="heading2">Täterkreis: Allgemeindelikte, Sonderdelikte und
+                    eigenhändige Delikte
+                </li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Allgemeindelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Sonderdelikte</li>
+                <li style="margin: 0rem 0rem 0rem 1.35rem;" data-style="heading3">Eigenhändige Delikte</li>
+            </ol>
+            <p data-style="standard"> </p>
+            <p class="MsoNormal" data-style="standard"> </p>
+            <h2 class="MsoNormal" data-style="heading2">
+                <span style="font-family: Mulish;">Erfolgscharakter: Erfolgs- und Tätigkeitsdelikte</span>
+            </h2>
+            <section data-style="structure_note">
+                <p class="MsoNormal">Die nachfolgende Unterteilung in Erfolgs- und Tätigkeitsdelikte folgt der wohl
+                    herrschenden Lehre und Rechtsprechung. Sie ist jedoch nicht unumstritten und es sprechen gute Gründe
+                    für andere Einordnungen. Praktische Auswirkungen ergeben sich jedoch vornehmlich für die
+                    Anwendbarkeit deutschen Strafrechts auf im Ausland begangene Straftaten (siehe insb. § 9 I StGB),
+                    weshalb an dieser Stelle nur knapp auf sie hingewiesen wird.
+                </p>
+            </section>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Erfolgsdelikte</span>
+            </h3>
+            <p class="MsoNormal" data-style="standard">
+                <span style="font-family: Mulish;">Erfolgsdelikte setzen die Verursachung eines Erfolges durch die
+                    Handlung des Täters voraus, sodass Kausalität zwischen beiden zu prüfen ist. Nach herrschender Lehre
+                    ist außerdem stets zu prüfen, ob dem Täter der Taterfolg auch objektiv zuzurechnen ist.
+                </span>
+            </p>
+            <p class="MsoNormal" data-style="paragraph">
+                <span style="font-family: Mulish;">Erfolgsdelikte lassen sich - nach Intensität der Beeinträchtigung -
+                    in Verletzungs- und konkrete Gefährdungsdelikte unterteilen:
+                </span>
+            </p>
+            <ul style="list-style-type: square;">
+                <li data-style="paragraph">
+                    <p data-style="standard">
+                        <strong style="mso-bidi-font-weight: normal;">
+                            <span style="font-family: Mulish;">Verletzungsdelikte
+                                <br>
+                            </span>
+                        </strong>
+                        <span style="font-family: Mulish;">Erfolg liegt in der Beeinträchtigung des geschützten
+                            Rechtsgutes
+                            <br>
+                        </span>
+                        <em style="mso-bidi-font-style: normal;">
+                            <span style="font-family: Mulish;">z.B.: <a href="https://lexmea.de/gesetz/stgb/211/mord"
+                                                                        title="Mord (§§ 212, 211 StGB)"
+                                                                        rel="nofollow noreferrer">Mord (§ 211 StGB)</a>, <a
+                                    href="https://lexmea.de/gesetz/stgb/212/totschlag" title="Totschlag (§ 212 StGB)"
+                                    rel="nofollow noreferrer">Totschlag (§ 212 StGB)</a>, <a
+                                    href="https://lexmea.de/gesetz/stgb/223/korperverletzung"
+                                    title="Körperverletzung (§ 223 StGB)" rel="nofollow noreferrer">Körperverletzung (§
+                                223 StGB)</a>,
+                                <a href="https://lexmea.de/gesetz/stgb/303/sachbeschadigung"
+                                   title="Sachbeschädigung (§ 303 StGB)" rel="nofollow noreferrer">Sachbeschädigung (§
+                                    303 StGB)
+                                </a>
+                            </span>
+                        </em>
+                    </p>
+                </li>
+                <li class="MsoNormal" data-style="paragraph">
+                    <p data-style="standard">
+                        <strong style="mso-bidi-font-weight: normal;">
+                            <span style="font-family: Mulish;">Konkrete Gefährdungsdelikte
+                                <br>
+                            </span>
+                        </strong>
+                        <span style="font-family: Mulish;">Erfolg muss nicht eintreten, jedoch muss sich das Verhalten
+                            des Täters zu einem „Beinahe-Schadensereignis“ verdichten, sodass es nur vom Zufall abhängt,
+                            ob es zu einer Verletzung oder Schädigung anderer kommt
+                            <br>
+                        </span>
+                        <em style="mso-bidi-font-style: normal;">
+                            <span style="font-family: Mulish;">z.B.: <a
+                                    href="https://lexmea.de/gesetz/stgb/315c/gefahrdung_des_strassenverkehrs"
+                                    title="Gefährdung des Straßenverkehrs (§ 315c StGB)" rel="nofollow noreferrer">
+                                Gefährdung des Straßenverkehrs (§ 315c StGB)</a>;
+                                <a href="https://lexmea.de/gesetz/stgb/221/aussetzung" title="Aussetzung (§ 221 StGB)"
+                                   rel="nofollow noreferrer">Aussetzung (§ 221 StGB)
+                                </a>
+                            </span>
+                        </em>
+                    </p>
+                </li>
+            </ul>
+            <p> </p>
+            <h3 data-style="heading3">
+                <span style="font-family: Mulish;">Tätigkeitsdelikte</span>
+            </h3>
+            <p data-style="standard">
+                <span style="font-family: Mulish;">Tätigkeitsdelikte setzen keinen Erfolgseintritt voraus, sondern
+                    stellen bereits die Handlung als solche unter Strafe. Daher entfällt auch eine Prüfung der
+                    Kausalität und der objektiven Zurechnung der Handlung zu einem – eben nicht geforderten – Erfolg.
+                </span>
+            </p>
+            <ul style="list-style-type: square;">
+                <li data-style="standard">
+                    <span style="font-family: Mulish;">
+                        <strong>Insb. abstrakte Gefährdungsdelikte</strong>
+                        <br>Ein bestimmter Erfolg oder eine tatsächliche konkrete Gefährdung ist nicht erforderlich.
+                        Strafwürdig ist bereits die Gefährlichkeit des Verhaltens des Täters für sich.
+                    </span>
+                    <span style="font-family: Mulish;">
+                        <em style="mso-bidi-font-style: normal;"><br>z.B.: <a
+                                href="https://lexmea.de/gesetz/stgb/316/trunkenheit_im_verkehr"
+                                title="Trunkenheit im Verkehr (§ 316 StGB)" rel="nofollow noreferrer">Trunkenheit im
+                            Verkehr (§ 316 StGB)</a>; Meineid (§ 154 StGB)
+                        </em>
+                    </span>
+                </li>
+            </ul>
+            <p> </p>
+            <p> </p>
+            <p data-style="standard"> </p>
+            <h2 class="MsoNormal" data-style="heading2">
+                <span style="font-family: Mulish;">Begehungsform: Begehungs- und Unterlassungsdelikte</span>
+            </h2>
+            <p class="MsoNormal"> </p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Begehungsdelikte</span>
+            </h3>
+            <p class="MsoNormal" data-style="standard">
+                <span style="font-family: Mulish;">Die Tathandlung wurde durch aktive Energieentfaltung vollzogen.
+                    <br>
+                </span>
+                <em style="mso-bidi-font-style: normal;">
+                    <span style="font-family: Mulish;">z.B. <a href="https://lexmea.de/gesetz/stgb/303/sachbeschadigung"
+                                                               title="Sachbeschädigung (§ 303 StGB)"
+                                                               rel="nofollow noreferrer">Sachbeschädigung
+                    </a> durch Abtreten eines Autospiegels (§ 303 StGB)
+                    </span>
+                </em>
+            </p>
+            <p class="MsoNormal"> </p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Unterlassungsdelikte</span>
+            </h3>
+            <p class="MsoNormal">
+                <span style="font-family: Mulish;">Der Täter begeht die Tat durch Unterlassen. Unterlassungsdelikte
+                    lassen sich in echte und unechte Unterlassungsdelikte unterteilen:
+                </span>
+            </p>
+            <ul style="list-style-type: square;">
+                <li>
+                    <p data-style="standard">
+                        <strong style="mso-bidi-font-weight: normal;">
+                            <span style="font-family: Mulish;">Echte Unterlassungsdelikte
+                                <br>
+                            </span>
+                        </strong>
+                        <span style="font-family: Mulish;">Hier stellt der Gesetzgeber ausdrücklich das Unterlassen
+                            bestimmter Handlungen in bestimmten Situationen unter Strafe.
+                            <br>
+                        </span>
+                        <em style="mso-bidi-font-style: normal;">
+                            <span style="font-family: Mulish;">z.B.:
+                                <a href="https://lexmea.de/gesetz/stgb/323c/unterlassene_hilfeleistung"
+                                   title="Unterlassene Hilfeleistung (§ 323c StGB)" rel="nofollow noreferrer">
+                                    Unterlassene Hilfeleistung (§ 323c StGB)
+                                </a>
+                            </span>
+                        </em>
+                    </p>
+                </li>
+                <li class="MsoNormal" data-style="paragraph">
+                    <p data-style="standard">
+                        <strong style="mso-bidi-font-weight: normal;">
+                            <span style="font-family: Mulish;">Unechte Unterlassungsdelikte
+                                <br>
+                            </span>
+                        </strong>
+                        <span style="font-family: Mulish;">Hier verursacht der Täter einen strafbaren Erfolg, indem er
+                            eine ihm auferlegte Handlung unterlässt. Die Handlungspflicht ergibt sich aus einer
+                            Garantenstellung und kann zum Schutz bestimmter Rechtsgüter (Beschützergaranten) oder zur
+                            Überwachung von Gefahrenquellen (Überwachergaranten) verpflichten.
+                        </span>
+                        <span style="font-family: Mulish;">Bei Vorliegen einer Garantenstellung kann jedes Erfolgsdelikt
+                            durch Unterlassen verwirklicht werden (§ 13 StGB).
+                            <br>
+                        </span>
+                        <em style="mso-bidi-font-style: normal;">
+                            <span style="font-family: Mulish;">z.B. <a
+                                    href="https://lexmea.de/gesetz/stgb/303/sachbeschadigung"
+                                    title="Sachbeschädigung (§ 303 StGB)" rel="nofollow noreferrer">Sachbeschädigung
+                            </a> durch Unterlassen des Fütterns zur Pflege anvertrauter Tiere (§§ 303, 13 StGB)
+                                <br>
+                            </span>
+                        </em>
+                        Siehe ausführlich: 
+                        <a href="https://lexmea.de/gesetz/stgb/13/grundschema_vorsatzliches_unechtes_unterlassungsdelikt"
+                           title="Grundschema: Vorsätzliches unechtes Unterlassungsdelikt (§ 13 StGB)"
+                           rel="nofollow noreferrer">Grundschema: Vorsätzliches unechtes Unterlassungsdelikt (§ 13 StGB)
+                        </a>
+                    </p>
+                </li>
+            </ul>
+            <p data-style="standard"> </p>
+            <p data-style="standard"> </p>
+            <h2 class="MsoNormal" data-style="heading2">
+                <span style="font-family: Mulish;">Täterkreis: Allgemeindelikte, Sonderdelikte und eigenhändige
+                    Delikte
+                </span>
+            </h2>
+            <p class="MsoNormal">Delikte lassen sich nach den möglichen Täterkreisen differenzieren:</p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Allgemeindelikte</span>
+            </h3>
+            <p class="MsoNormal" data-style="paragraph">
+                <span style="font-family: Mulish;">Allgemeindelikte können von jedermann verwirklicht werden.</span>
+            </p>
+            <p class="MsoNormal"> </p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Sonderdelikte</span>
+            </h3>
+            <ul style="list-style-type: square;">
+                <li class="MsoNormal" data-style="paragraph">
+                    <strong style="mso-bidi-font-weight: normal;">
+                        <span style="font-family: Mulish;">Echte Sonderdelikte
+                            <br>
+                        </span>
+                    </strong>
+                    <span style="font-family: Mulish;">Gesetzlich vorausgesetzte Subjektqualität des Täters ist
+                        strafbegründend (§ 28 I StGB)
+                    </span>
+                    <span style="font-family: 'Times New Roman',serif;">→</span>
+                    <span style="font-family: Mulish;">ohne eine bestimmte Tätereigenschaft ist also keine
+                        Deliktsverwirklichung möglich
+                        <br>
+                    </span>
+                    <em style="mso-bidi-font-style: normal;">
+                        <span style="font-family: Mulish;">z.B.: „Arzt“ (§ 203 I Nr. 1 StGB) oder „Amtsträger“ (§ 331
+                            StGB)
+                        </span>
+                    </em>
+                </li>
+                <li class="MsoNormal" data-style="paragraph">
+                    <strong style="mso-bidi-font-weight: normal;">
+                        <span style="font-family: Mulish;">Unechte Sonderdelikte
+                            <br>
+                        </span>
+                    </strong>
+                    <span style="font-family: Mulish;">Gesetzlich normierte Subjektqualität des Täters wirkt
+                        strafschärfend (§ 28 II StGB)
+                    </span>
+                    <span style="font-family: 'Times New Roman',serif;">→</span>
+                    <span style="font-family: Mulish;">ohne Tätereigenschaft also lediglich Deliktsverwirklichung des
+                        Grundtatbestandes
+                        <br>
+                    </span>
+                    <em style="mso-bidi-font-style: normal;">
+                        <span style="font-family: Mulish;">z.B.: Körperverletzung im Amt (§ 223 i.V.m. § 340 StGB) oder
+                            Strafvereitelung durch einen Amtsträger (§ 257 i.V.m. § 257a StGB)
+                        </span>
+                    </em>
+                </li>
+                <li class="MsoNormal" data-style="paragraph">
+                    <strong style="mso-bidi-font-weight: normal;">
+                        <span style="font-family: Mulish;">Pflichtdelikte
+                            <br>
+                        </span>
+                    </strong>
+                    <span style="font-family: Mulish;">Können nur von Personen mit bestimmten Pflichten verwirklicht
+                        werden
+                        <br>
+                    </span>
+                    <em style="mso-bidi-font-style: normal;">
+                        <span style="font-family: Mulish;">z.B. <a href="https://lexmea.de/gesetz/stgb/221/aussetzung"
+                                                                   title="Aussetzung (§ 221 StGB)"
+                                                                   rel="nofollow noreferrer">Aussetzung § 221 I Nr. 2
+                            StGB
+                        </a> (Garanten- bzw. Obhutspflicht); <a
+                                href="https://lexmea.de/gesetz/stgb/142/unerlaubtes_entfernen_vom_unfallort"
+                                title="Unerlaubtes Entfernen vom Unfallort (§ 142 StGB)" rel="nofollow noreferrer">
+                            unerlaubtes Entfernen vom Unfallort § 142 StGB
+                        </a> (Warte- bzw. Feststellungspflicht); <a href="https://lexmea.de/gesetz/stgb/266/untreue"
+                                                                    title="Untreue (§ 266 StGB)"
+                                                                    rel="nofollow noreferrer">Untreue § 266
+                        </a> (Vermögensbetreuungspflicht)
+                        </span>
+                    </em>
+                </li>
+            </ul>
+            <p> </p>
+            <h3 class="MsoNormal" data-style="heading3">
+                <span style="font-family: Mulish;">Eigenhändige Delikte</span>
+            </h3>
+            <p class="MsoNormal" data-style="standard">
+                <span style="font-family: Mulish;">Eigenhändige Delikte können nur von der Person verwirklicht werden,
+                    die die Handlung unmittelbar selbst begeht. Es ist k
+                </span>
+                <span style="font-family: Mulish;">eine mittelbare Täterschaft (§ 25 I Alt. 2 StGB) oder Mittäterschaft
+                    (§ 25 II StGB) möglich.
+                    <br>
+                </span>
+                <span style="font-family: Mulish;">
+                    <em>z.B.: „Aussagender“ (§ 153 StGB); „Fahrender“ (§ 315c StGB); „Berauschter“ (§ 323a StGB) </em>
+                </span>
+            </p>
+            <p class="MsoNormal" data-style="standard"> </p>
+            <p class="MsoNormal" data-style="standard"> </p>
+            <section data-style="structure_note">
+                <p class="MsoNormal" data-style="standard">Beachte: Nicht um eigenständige Deliktsarten i.e.S., sondern
+                    um...
+                </p>
+                <ul style="list-style-type: square;">
+                    <li class="MsoNormal" data-style="standard">Erscheinungsformen einer Straftat handelt es sich bei
+                        der Unterscheidung in <a
+                                href="https://lexmea.de/gesetz/stgb/15/grundschema_vorsatzliches_vollendetes_begehungsdelikt"
+                                title="Grundschema: Vorsätzliches vollendetes Begehungsdelikt (§ 15 Var. 1 StGB)"
+                                rel="nofollow noreferrer">vollendete</a> und <a
+                                href="https://lexmea.de/gesetz/stgb/22/grundschema_versuch_des_vorsatzlichen_begehungsdelikts"
+                                title="Grundschema: Versuch des vorsätzlichen Begehungsdelikts (§§ 22, 23 StGB)"
+                                rel="nofollow noreferrer">versuchte Delikte
+                        </a> sowie in <a href="https://lexmea.de/gesetz/stgb/15/ubersicht_vorsatz_und_fahrlassigkeit"
+                                         title="Übersicht: Vorsatz und Fahrlässigkeit (§ 15 StGB)"
+                                         rel="nofollow noreferrer">Vorsatzdelikte und Fahrlässigkeitsdelikte</a>. 
+                    </li>
+                    <li class="MsoNormal" data-style="standard">Erweiterungen des Tatbestandes bzw.
+                        Strafzumessungsregelungen handelt es sich bei <a
+                                href="https://lexmea.de/gesetz/stgb/18/ubersicht_qualifikation_erfolgsqualifikation_besonders_schwerer_fall"
+                                title="Übersicht: Qualifikation, Erfolgsqualifikation, besonders schwerer Fall"
+                                rel="nofollow noreferrer">Qualifikation, Erfolgsqualifikation und besonders schwerem
+                            Fall</a>.
+                    </li>
+                    <li class="MsoNormal" data-style="standard">eine informelle Gliederung der Delikte handelt es sich
+                        bei der Einteilung in Vermögensdelikte (geschütztes Rechtsgut ist das Vermögen) und
+                        Nichtvermögensdelikte (schützen sonstige Rechtsgüter).
+                    </li>
+                    <li class="MsoNormal" data-style="standard">eine Unterteilung nach Strafverfolgungsvoraussetzungen
+                        handelt es sich bei der Unterscheidung in Antrags- und Offizialdelikte. 
+                    </li>
+                </ul>
+            </section>
+            <p class="MsoNormal" data-style="standard"> </p>
+        </text>
+        <curated>1</curated>
+        <created_at>2023-09-16 15:39:18</created_at>
+        <updated_at>2024-09-03 01:16:22</updated_at>
+        <deleted_at>null</deleted_at>
+        <field_of_law_id>null</field_of_law_id>
+        <slug>ubersicht_deliktsarten_im_strafrecht</slug>
+        <published_at>2023-09-16 15:39:18</published_at>
+    </row>
+</data>
