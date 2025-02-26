@@ -7,6 +7,7 @@ import org.jsoup.nodes.Element;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.Instant;
+import java.util.ArrayList;
 import java.util.Date;
 
 @Getter
@@ -25,6 +26,9 @@ public class Row {
     private Date published_at;
 
     private TableOfContent table_of_content;
+    private ArrayList<Problem> problems = new ArrayList<>();
+    private ArrayList<Definition> definitions = new ArrayList<>();
+
 
     private Element text;
 
@@ -61,6 +65,14 @@ public class Row {
         text = self.getElementsByTag("text").getFirst();
     }
 
+    public void addProblem(Problem problem) {
+        this.problems.add(problem);
+    }
+
+    public void addDefinitions(ArrayList<Definition> definitions) {
+        this.definitions.addAll(definitions);
+    }
+
     @Override
     public String toString() {
         final StringBuilder sb = new StringBuilder("Row{");
@@ -70,11 +82,12 @@ public class Row {
         sb.append(", currated='").append(curated).append('\'');
         sb.append(", field_of_law_id='").append(field_of_law_id).append('\'');
         sb.append(", slug='").append(slug).append('\'');
-        sb.append(", text=").append(text);
         sb.append(", created_at=").append(created_at);
         sb.append(", updated_at=").append(updated_at);
         sb.append(", deleted_at=").append(deleted_at);
         sb.append(", published_at=").append(published_at);
+        sb.append(",\ndefinitions=").append(definitions);
+        sb.append(",\nproblems=").append(problems);
         sb.append('}');
         return sb.toString();
     }
