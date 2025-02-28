@@ -27,6 +27,8 @@ public class Entry {
     private String deleted_at;
     private String published_at;
 
+    private SchemaParent lawParent;
+
     private TableOfContent table_of_content;
     private ArrayList<Problem> problems = new ArrayList<>();
     private ArrayList<Definition> definitions = new ArrayList<>();
@@ -54,7 +56,6 @@ public class Entry {
         if (parent.isNull(fieldName)) {
             return null;
         }
-
         return parent.get(fieldName);
     }
 
@@ -82,6 +83,7 @@ public class Entry {
         sb.append(", table_of_content=").append(table_of_content);
         sb.append("\nproblems=").append(problems);
         sb.append("\ndefinitions=").append(definitions);
+        sb.append("\nlawParent='").append(lawParent).append('\'');
         //sb.append(", text='").append(text).append('\'');
         sb.append('}');
         return sb.toString();

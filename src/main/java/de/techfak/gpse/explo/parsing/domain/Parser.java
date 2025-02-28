@@ -7,6 +7,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import javax.xml.validation.Schema;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -20,12 +21,14 @@ public class Parser {
 
     }
 
-    public void parseEntry(JSONObject entryObj) {
+    public void parseEntry(JSONObject entryObj, SchemaParent parent) {
         Entry entry = new Entry(entryObj);
         String textString = entry.getText();
 
         Document doc = Jsoup.parse(textString, "", org.jsoup.parser.Parser.xmlParser());
         Element text = (Element) doc;
+
+        entry.setLawParent(parent);
 
         Element toc = text.getElementById("tableOfContents");
         if (toc != null) {
@@ -50,40 +53,45 @@ public class Parser {
         entries.put(entry.getId(), entry);
     }
 
-    public void parseParagraph(JSONObject paragraph) {
+    public void parseParagraph(JSONObject paragraph, SchemaParent parent) {
         JSONArray entries = paragraph.getJSONArray("entries");
         for (int i = 0; i < entries.length(); i++) {
             JSONObject entry = entries.getJSONObject(i);
-            parseEntry(entry);
+            parseEntry(entry, parent);
         }
     }
 
     public void discoverJSON(String jsonContent) {
         JSONArray obj = new JSONArray(jsonContent);
 
-        Queue<JSONObject> parseQueue = new LinkedList<>();
+        Queue<UserContentTabFoL> parseQueue = new LinkedList<>();
 
 
         for (int i = 0; i < obj.length(); i++) {
             JSONObject child = obj.getJSONObject(i);
-            parseQueue.add(child);
+            UserContentTabFoL parse = new UserContentTabFoL(child);
+            parseQueue.add(parse);
         }
 
         while (!parseQueue.isEmpty()) {
-            JSONObject child = parseQueue.poll();
-            if (child.has("children")) {
-                JSONArray children = child.getJSONArray("children");
+            UserContentTabFoL next = parseQueue.poll();
+            JSONObject nextObj = next.getObject();
+
+            if (nextObj.has("children")) {
+                JSONArray children = nextObj.getJSONArray("children");
                 for (int j = 0; j < children.length(); j++) {
                     JSONObject childObj = children.getJSONObject(j);
-                    parseQueue.add(childObj);
+                    UserContentTabFoL child = new UserContentTabFoL(childObj);
+                    child.getSchemaParent().setParent(next.getSchemaParent());
+                    parseQueue.offer(child);
                 }
             }
 
-            if (child.has("paragraphs")) {
-                JSONArray paragraphs = child.getJSONArray("paragraphs");
+            if (nextObj.has("paragraphs")) {
+                JSONArray paragraphs = nextObj.getJSONArray("paragraphs");
                 for (int j = 0; j < paragraphs.length(); j++) {
                     JSONObject paragraphObj = paragraphs.getJSONObject(j);
-                    parseParagraph(paragraphObj);
+                    parseParagraph(paragraphObj, next.getSchemaParent());
                 }
             }
         }
